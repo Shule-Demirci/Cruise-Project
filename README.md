@@ -25,20 +25,20 @@ Project is focused on helping a cruise company contacted to Triforcia for transf
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+<br/>
 <img src="Lucid Chart .png"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="Objects to Use.png"/>
+  <br/>
+<img src="Schema Builder Relationships .png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="Schema Builder Relationships 2.png/>
+ <br/>
+<img src="Schema Builder Relationships 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="Schema Builder Relationships .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+<img src="Tasks to Complete .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
