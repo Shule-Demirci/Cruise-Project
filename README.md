@@ -26,11 +26,11 @@ Project is focused on helping a cruise company contacted to Triforcia for transf
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Lucid Chart .png"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Objects to Use.png"/>
 <br />
 <br />
 Enter the number of passes: <br/>
