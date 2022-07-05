@@ -62,7 +62,7 @@ Project is focused on helping a cruise company contacted to Triforcia for transf
 <br />
 <br />
 </br>
-<img src="Tasks to Complete .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Tasks to Complete .png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </br>
