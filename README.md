@@ -1,6 +1,6 @@
 <h1>Triforcia Cruise Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>
 Project is focused on helping a cruise company contacted to Triforcia for transforming  their previous processes into the Salesforce, created new custom objects and custom fields to track specific requirements, and created a custom junction object to enable accurate tracking of specific data, set up the web-to-Lead system to gather customers and support requests, added Validation Rules for certain fields that would display an error message if certain criteria were met, developed and documented process flows, created different reports and added them to a custom dashboard to track data for the client 
@@ -34,11 +34,11 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Schema Builder Relationships 2.png/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Schema Builder Relationships .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
